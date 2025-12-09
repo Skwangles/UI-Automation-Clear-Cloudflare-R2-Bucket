@@ -1,4 +1,4 @@
-# R2 Bucket Clearer
+# Cloudflare R2 Bucket Cleaner
 
 This Python project's purpose is to help you clear a bucket with lots of items, that you don't want to constantly be charged for.
 
