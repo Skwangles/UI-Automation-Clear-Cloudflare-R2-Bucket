@@ -1,0 +1,4 @@
+pyautogui>=0.9.54
+pillow>=9.0.0
+# Optional: Install opencv-python for better image recognition with confidence levels
+# pip install opencv-python>=4.5.0 
